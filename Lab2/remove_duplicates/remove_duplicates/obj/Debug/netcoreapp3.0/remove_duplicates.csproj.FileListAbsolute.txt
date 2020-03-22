@@ -1,0 +1,10 @@
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.0\remove_duplicates.exe
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.0\remove_duplicates.deps.json
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.0\remove_duplicates.runtimeconfig.json
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.0\remove_duplicates.runtimeconfig.dev.json
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.0\remove_duplicates.dll
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.0\remove_duplicates.pdb
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.0\remove_duplicates.AssemblyInfoInputs.cache
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.0\remove_duplicates.AssemblyInfo.cs
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.0\remove_duplicates.dll
+D:\Documents\backend\Lab2\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.0\remove_duplicates.pdb

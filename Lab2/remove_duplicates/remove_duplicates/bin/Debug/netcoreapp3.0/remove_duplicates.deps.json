@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "remove_duplicates/1.0.0": {
+        "runtime": {
+          "remove_duplicates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "remove_duplicates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
