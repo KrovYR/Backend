@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoveExtraBlanks": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Documents\\backend\\Lab3\\RemoveExtraBlanks\\RemoveExtraBlanks\\obj\\Debug\\netcoreapp3.0\\test_files\\input.txt\" \"D:\\Documents\\backend\\Lab3\\RemoveExtraBlanks\\RemoveExtraBlanks\\obj\\Debug\\netcoreapp3.0\\test_files\\output.txt\""
+    }
+  }
+}
