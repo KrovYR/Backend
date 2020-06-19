@@ -2,28 +2,27 @@
 
 CREATE TABLE dvd (
 	dvd_id INTEGER NOT NULL,
-	tile TEXT NOT NULL,
+	title TEXT NOT NULL,
 	production_year INTEGER NOT NULL,
-	PRIMARY KEY(dvd_id, AUTOINCREMENT)
+	PRIMARY KEY(dvd_id AUTOINCREMENT)
 );
 
 CREATE TABLE customer (
 	customer_id INTEGER NOT NULL,
 	first_name TEXT NOT NULL,
 	last_name TEXT NOT NULL,
-	pasport_code INTEGER NOT NULL,
+	passport_code INTEGER NOT NULL,
         registration_date TEXT NOT NULL,
-	PRIMARY KEY(customer_id, AUTOINCREMENT)
+	PRIMARY KEY(customer_id AUTOINCREMENT)
 );
 
 CREATE TABLE offer (
 	offer_id INTEGER NOT NULL,
 	dvd_id INTEGER NOT NULL,
 	customer_id INTEGER NOT NULL,
-	tile TEXT NOT NULL,
 	offer_date TEXT NOT NULL,
 	return_date TEXT,
-	PRIMARY KEY(offer_id, AUTOINCREMENT)
+	PRIMARY KEY(offer_id AUTOINCREMENT)
 );
 
 -- 3.
@@ -31,7 +30,7 @@ CREATE TABLE offer (
 INSERT INTO dvd (title, production_year) VALUES ('1+1', 2012);
 INSERT INTO dvd (title, production_year) VALUES ('Левша', 2015);
 INSERT INTO dvd (title, production_year) VALUES ('Елки', 2010);
-INSERT INTO dvd (title, production_year) VALUES ('Братья', 20101);
+INSERT INTO dvd (title, production_year) VALUES ('Братья', 2010);
 
 INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Иван', 'Васильевич', 1245, '2002-06-21');
 INSERT INTO customer (first_name, last_name, passport_code, registration_date) VALUES ('Мария', 'Иванова', 3418, '1998-09-06');
